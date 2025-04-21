@@ -1,1 +1,2 @@
-# sit323-hdtask-anime-rec-system
+# SIT323 Cloud Native Application Development
+## HD Task - Anime Recommendation System
